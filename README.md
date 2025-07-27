@@ -10,7 +10,7 @@ delphinium/
 │   ├── breaches.go         # Breach history
 │   └── news.go             # Blog/news mentions (RSS)
 ├── builder/
-│   └── delphinium.go       # Event merging and formatting
+│   └── timeline.go         # Event merging and formatting
 ├── internal/
 │   └── types.go            # Event struct and helpers
 ├── output/
